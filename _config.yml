@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Petertowne
+tagline:             'an internet-powered web place'
+description:         '<em>Peter</em>: python // coffee // burgers // jason molina // art deco // raspberries // stig lindberg'
+url:                 http://www.peterstensmyr.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Peter Stensmyr
+  url:               https://twitter.com/peterstensmyr
+  email:             peter.stensmyr@gmail.com
+
+# Custom vars
+version:             1.0.0
