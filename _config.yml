@@ -9,10 +9,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Petertowne
+title:               Petertown
 tagline:             'an internet-powered web place'
 description:         '<em>Peter</em>: python // coffee // burgers // jason molina // art deco // raspberries // stig lindberg'
-url:                 http://www.peterstensmyr.com
+url:                 allhailwesttexas.github.io
 baseurl:             /
 paginate:            5
 
