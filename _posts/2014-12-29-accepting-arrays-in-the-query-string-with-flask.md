@@ -1,12 +1,12 @@
 ---
-title: Accepting arrays in the query string with Flask
+title: Accepting Arrays in the Query string with Flask
 layout: post
 ---
 
 I've written an API with Flask that takes some input parameters, does some
 calculations and returns JSON. Pretty standard. Today I wanted to change it so
 that some of the parameters could be provided as lists and the API would return
-results for all combinations. So original query string would look something
+results for all combinations. So the original query string would look something
 like this:
 
 ```javascript
@@ -15,7 +15,7 @@ like this:
 
 which would return:
 
-```python
+```javascript
 {
     "a": 10,
     "b": 20,
@@ -32,7 +32,7 @@ And I wanted to be able to do this:
 
 which should return:
 
-```python
+```javascript
 {
   "data": [
     {
