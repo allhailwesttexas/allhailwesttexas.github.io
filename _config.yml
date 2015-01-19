@@ -5,13 +5,13 @@ highlighter:         pygments
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink:           /:title
 relative_permalinks: true
 
 # Setup
 title:               Petertown
 tagline:             'an internet-powered web place'
-description:         '<em>Peter</em>: python // coffee // burgers // jason molina // art deco // raspberries // stig lindberg'
+description:         '<em>Peter</em>: python // coffee // &#x1F354; &#x1F354; // <a href="http://www.goldflakepaint.co.uk/jason-molina-the-magnolia-electric-co/">jason molina</a> // art deco // raspberries // stig lindberg'
 url:                 allhailwesttexas.github.io
 baseurl:             /
 paginate:            5
@@ -21,6 +21,9 @@ author:
   name:              Peter Stensmyr
   url:               https://twitter.com/peterstensmyr
   email:             peter.stensmyr@gmail.com
+  twitter:           peterstensmyr
+  github:            allhailwesttexas
+
 
 # Custom vars
 version:             1.0.0
