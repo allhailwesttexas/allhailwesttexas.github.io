@@ -119,7 +119,7 @@ it will work fine (`requests`, `click`, and so on).
 
 The Python standard library is pretty extensive, and will have the tools to do
 most things you will want to do. But, in many cases, someone else has written a
-library that is easeier to use and, well, more "Pythonic" (a word you will come
+library that is easier to use and, well, more "Pythonic" (a word you will come
 across here and there). Here are some of my go-to external libraries:
 
 - [pandas](#) &ndash; If you do any scientific programming, this is where to start
