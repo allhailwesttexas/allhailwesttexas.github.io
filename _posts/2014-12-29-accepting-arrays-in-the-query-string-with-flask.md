@@ -1,5 +1,5 @@
 ---
-title: Accepting Arrays in the Query string with Flask
+title: Accepting Arrays in the Query String with Flask
 layout: post
 ---
 
