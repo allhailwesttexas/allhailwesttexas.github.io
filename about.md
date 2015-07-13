@@ -23,6 +23,3 @@ Here are some things I like:
 - Sharks
 - Pandas
 - pandas
-
-Find me on:
-
