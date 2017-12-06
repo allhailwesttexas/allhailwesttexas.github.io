@@ -1,5 +1,6 @@
 ---
 title: test post
+layout: post
 ---
 
 This is a test post with an div tag with an id.
