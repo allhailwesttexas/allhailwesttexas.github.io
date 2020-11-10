@@ -1,7 +1,7 @@
 # Dependencies
-markdown:            redcarpet
+markdown:            kramdown
 highlighter:         pygments
-gems:                [jekyll-paginate]
+plugins:             [jekyll-paginate]
 
 # Permalinks
 #
@@ -13,7 +13,7 @@ title:               Petertown
 tagline:             'an internet-powered web place'
 description:         '<em>Peter</em>: python // coffee // &#x1F354; &#x1F354; // <a href="http://www.goldflakepaint.co.uk/jason-molina-the-magnolia-electric-co/">jason molina</a> // art deco // raspberries // stig lindberg'
 url:                 allhailwesttexas.github.io
-baseurl:             /
+baseurl:             '/'
 paginate:            5
 
 # About/contact
