@@ -7,14 +7,14 @@ Getting started with Python and looking for a good setup? Or maybe experienced
 Python-person looking to look down on someone else's inferior setup? Either
 way, this might be the page for you! Here I'll describe my general setup for
 writing world-changing software such as [Todo for
-Windows](http://www.github.com/allhailwesttexas/todo). I originally wrote it
+Windows](https://www.github.com/allhailwesttexas/todo). I originally wrote it
 after setting up the same environment on three of my co-workers' computers -
 like any good programmer, I'm lazy and try my best to "automate" everything (in
 this case, "automate" just means "make someone else do it instead of me").
 
 ##Editor
 
-I like [Sublime Text 3](http://www.sublimetext.com/3). It is technically in
+I like [Sublime Text 3](https://www.sublimetext.com/3). It is technically in
 beta, but works very well. It costs about $60, but has a free version that
 very occasionally nags you to buy. I bought it after a while because I thought
 it was really good. Get it.
@@ -87,9 +87,9 @@ Here is my `Settings (User)` file:
 
 ##Source Control
 
-I like [git](http://www.git-scm.com/) for source control. It's basically
+I like [git](https://www.git-scm.com/) for source control. It's basically
 standard these days, in large part due to [GitHub](https://www.github.com/).
-Get it by installing [GitHub for Windows](http://windows.github.com/) which is
+Get it by installing [GitHub for Windows](https://windows.github.com/) which is
 an easy to use (but somewhat limited in functionality - I still like it because
 it's intuitive and very pretty) GUI for git.
 
@@ -102,7 +102,7 @@ GitHub for Windows app to push code to BitBucket.
 ##Python Packages
 
 For packages, first see if it's available from
-[here](http://www.lfd.uci.edu/~gohlke/pythonlibs/). If it's not, use `pip` to
+[here](https://www.lfd.uci.edu/~gohlke/pythonlibs/). If it's not, use `pip` to
 install. To do this, download and install `pip` from the above site, then add
 `C:\Python27\Scripts` to your `PATH` environment variable. You do this by
 pressing the Windows key, starting to type "environment variable" until the

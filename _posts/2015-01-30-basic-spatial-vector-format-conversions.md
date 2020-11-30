@@ -4,7 +4,7 @@ layout: post
 ---
 
 For converting between vector formats (shapefile, Mapinfo etc) you can use the
-command line tool [ogr2ogr](http://www.gdal.org/ogr2ogr.html) as an alternative
+command line tool [ogr2ogr](https://www.gdal.org/ogr2ogr.html) as an alternative
 to Universal Translator in Mapinfo. It's really easy to use. Here's how to
 convert from shapefile to Mapinfo tab file:
 
@@ -32,6 +32,6 @@ Mapinfo files can have points/lines/polygons in the same file whereas
 shapefiles can only have a single type of geometry. You're probably better off
 sticking with Universal Translator for this use case.
 
-There's also a tool for converting between raster formats ([gdal_translate](http://www.gdal.org/gdal_translate.html)) but
+There's also a tool for converting between raster formats ([gdal_translate](https://www.gdal.org/gdal_translate.html)) but
 it's slightly harder to use (tends to mess up nodata values if you don't
 specify correctly).
