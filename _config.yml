@@ -11,7 +11,7 @@ permalink:           /:title
 # Setup
 title:               Petertown
 tagline:             'an internet-powered web place'
-description:         '<em>Peter</em>: python // coffee // &#x1F354; &#x1F354; // <a href="http://www.goldflakepaint.co.uk/jason-molina-the-magnolia-electric-co/">jason molina</a> // art deco // raspberries // stig lindberg'
+description:         '<em>Peter</em>: python // coffee // &#x1F354; &#x1F354; // <a href="https://www.goldflakepaint.co.uk/jason-molina-the-magnolia-electric-co/">jason molina</a> // art deco // raspberries // stig lindberg'
 url:                 allhailwesttexas.github.io
 baseurl:             '/'
 paginate:            5
