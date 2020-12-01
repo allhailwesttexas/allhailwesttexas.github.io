@@ -1,0 +1,6 @@
+- If it's not in the codebase, it won't be respected.
+- If you want to enforce something, make it part of the build. Code style guide? Sure, but you also need a CI step that will fail the build if the style guide is not followed.
+- Ideally you also have an automatic formatting tool to make it easy for your developers.
+- If you care about something, write a unit test for it.
+- Don't put a comment saying "Don't do <intuitive thing>, here you have to do <weird thing> because of <valid reason>"
+- Or, you can do that, but you should also add a unit test that will fail the build if someone does <intuitive thing>.
